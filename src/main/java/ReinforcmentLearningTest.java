@@ -1,4 +1,4 @@
-public class BellmanTest {
+public class ReinforcmentLearningTest {
     int statesNumber=3;
     int actionsNumber=2;
     int epochsNumber=200;
@@ -15,7 +15,7 @@ public class BellmanTest {
     };
     double gamma=0.95;
     public static void main(String[] args) {
-        new BellmanTest().start();
+        new ReinforcmentLearningTest().start();
     }
 
     private double max(double[] data){
