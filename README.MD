@@ -10,6 +10,7 @@
   <li>Pour chaque action, on connait les probabilités que l'action provoque une transition vers un autre état</li>
  </ul>
 </div>
+<div>
 <h4>Console Après exécution des 200 itérations</h4>
 <pre>
  <code>
@@ -35,6 +36,7 @@ State 2, Action 0 => 8.255592442329943
 State 2, Action 1 => 8.867446241310237 <==
 </code>
 </pre>
+</div>
 <div>
  <h4>Politique optimale : </h4>
  D'après les résultats, l'agorithme conclut la politique optimale suivante :
