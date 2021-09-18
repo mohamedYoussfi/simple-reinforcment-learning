@@ -1,3 +1,12 @@
+/**
+ * Ct exemple montre un simple exemple d'implémentation d'un algorithme
+ * d'apprentissage par renforcement
+ * Ici on suppose que :
+ * - nous avons un environement à 3 état S0, S1 et S2
+ * - Dans chaque état on peut prendre deux actions a0 et a1
+ * - Pour chaque action, on connait les probabilités que l'action provoque une transition vers un autre état
+ *
+ */
 public class ReinforcmentLearningTest {
     int statesNumber=3; // Nombre de states
     int actionsNumber=2; // Nombre d'actions
