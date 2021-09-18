@@ -1,3 +1,5 @@
+<pre>
+ <code>
 ---------------------------------
 Itération => 198
 State 0, Action 0 => 8.213472058788597
@@ -23,4 +25,6 @@ Politique Optimale :
   S0 => A0
   S1 => A0
   S2 => A1
+</code>
+</pre>
 <img src="screen.png">
